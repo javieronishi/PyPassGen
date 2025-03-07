@@ -32,8 +32,3 @@ python3 password_generator.py
 ## Ejemplo de salida:
 
 ![Ejemplo de salida](/img.png "Ejemplo de salida")
-
-sudo apt-get install python3-tk
-sudo apt install python3-pip -y
-
-pip3 install pyperclip
